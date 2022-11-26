@@ -1,2 +1,3 @@
 hari sedang belajar git
 mendengarkan lagu hindia
+menambah text di file diary-afgan.txt
